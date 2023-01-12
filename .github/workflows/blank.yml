@@ -1,6 +1,7 @@
 on:
   push:
   release:
+    action: [released]
   workflow_dispatch:
 
 jobs:
