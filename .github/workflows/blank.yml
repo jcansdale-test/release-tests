@@ -1,7 +1,7 @@
 on:
   push:
   release:
-    published:
+    types: [published]
   workflow_dispatch:
 
 jobs:
