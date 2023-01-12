@@ -1,6 +1,7 @@
 on:
   push:
   release:
+    published:
   workflow_dispatch:
 
 jobs:
